@@ -1,0 +1,11 @@
+"blocks"	"dmrseq"	"metiline"
+"prom2"	39.98	34.72	36.45
+"prom5"	49.4	44.87	46.73
+"prom10"	59.37	55.04	56.78
+"prom20"	70.72	67.4	68.94
+"tss"	13.57	18.15	14.71
+"cpg"	36.07	13.49	17.35
+"open_chromatin_region"	1.32	1.26	1.28
+"TF_binding_site"	1.78	1.33	1.32
+"CTCF_binding_site"	15.48	17.1	15.69
+"enhancer"	1.38	3.32	2.81
