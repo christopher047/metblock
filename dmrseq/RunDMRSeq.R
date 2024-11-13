@@ -56,7 +56,7 @@ runDMRSeq <- function(achr)
 		}
 	}	
 
-########### do not hog the server ############
+########### change MulticoreParam to alter number of cores used ############
 register(MulticoreParam(16)) 
 runDMRSeq("chr1") 
 runDMRSeq("chr2") 
