@@ -99,7 +99,7 @@ createSegIndex <- function(segs, achr)
         names(sindex) <- paste0(achr, ".", 1:length(segs))
 	return(sindex) 
 	}	
-### this was slaughtered by referees 
+### consider testing different imputation methods in future 
 imputeKNNbySegs <- function(object, ncores=16, nb=5) 
 	{
 	cat("imputing by segment \n") 	
