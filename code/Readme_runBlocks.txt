@@ -1,6 +1,6 @@
 ### runBlocks.R  paramaters ### 
 
-achr ###chromosome name
+achr="chr1" ### chromosome name
 input_dir="../raw/" ### directory of raw data 
 min.seg=20 ### minimum number of CpG sites per segment 
 bwd=300 ¤## bandwidth for distance decay function
