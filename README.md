@@ -2,8 +2,8 @@
 ### default is 16 cores ###
 
 # Run code from main
-must be in top directory
-source("main.R") 
+#must be in top directory
+#source("main.R") 
 
 ### requirements ###
 #require(impute)
