@@ -25,7 +25,7 @@
 #metilene must be in path 
 
 ### description of main.R ##
-### unpack data ##
+### unpack data reference and raw data ##
 #source("unpack_data.R")
 
 ### run blocks ###
