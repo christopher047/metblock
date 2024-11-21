@@ -12,7 +12,7 @@
 #require(TxDb.Hsapiens.UCSC.hg38.knownGene)
 #require(org.Hs.eg.db)
 #require(clusterProfiler)
-#requirt(R.utils) 
+#require(R.utils) 
 
 #metilene must be in path 
 #raw data used for all three methods is in folder raw
