@@ -1,5 +1,7 @@
 Supplementary files for Journal of Bioinformatics and Computational Biology
 S1_fig.pdf example of the comparison of 30 regions found by metblock, dmrseq, and metilene
+S1_table.xlsx overview of algorithms
+S2_table.xlsx overview of UC and control samples 
 S3_table.xlsx results of segmentation
 S4_table.xlsx gene enrichment results for dmrseq regions
 S5_table.xlsx gene enrichment results for metilene
